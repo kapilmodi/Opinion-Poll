@@ -5,12 +5,12 @@ Steps
    Use can use the following Data-schema 
    
 +---------+---------+------+-----+---------+-------+<br />
-| Field   | Type    | Null | Key | Default | Extra |
-+---------+---------+------+-----+---------+-------+
-| Miquel  | int(11) | NO   |     | NULL    |       |
-| Charles | int(11) | NO   |     | NULL    |       |
-| Tolkien | int(11) | NO   |     | NULL    |       |
-| Antoine | int(11) | NO   |     | NULL    |       |
-+---------+---------+------+-----+---------+-------+
+| Field   | Type    | Null | Key | Default | Extra |<br />
++---------+---------+------+-----+---------+-------+<br />
+| Miquel  | int(11) | NO   |     | NULL    |       |<br />
+| Charles | int(11) | NO   |     | NULL    |       |<br />
+| Tolkien | int(11) | NO   |     | NULL    |       |<br />
+| Antoine | int(11) | NO   |     | NULL    |       |<br />
++---------+---------+------+-----+---------+-------+<br />
 
 Polling page and result screenshots are attached 
