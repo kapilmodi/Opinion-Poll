@@ -4,7 +4,7 @@ Steps
 2) Create a table by the name <b> Poll </b> in your database.
    Use can use the following Data-schema 
    
-+---------+---------+------+-----+---------+-------+
++---------+---------+------+-----+---------+-------+<br />
 | Field   | Type    | Null | Key | Default | Extra |
 +---------+---------+------+-----+---------+-------+
 | Miquel  | int(11) | NO   |     | NULL    |       |
